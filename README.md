@@ -19,7 +19,7 @@
 ## Clone this project
 
 ```bash
-> git clone https://github.com/alemaoxl12/alemaozao.git
+> git clone https://github.com/alemaoxl12/REPOSTO.git
 ```
 
 ## Install the dependencies:
@@ -27,7 +27,7 @@ Before running the below command, make sure you're in the project directory that
 you've just cloned!!
 
 ```bash
-> cd alemaozao
+> cd REPOSTO
 > bash install.sh
 ```
 
@@ -85,7 +85,7 @@ you've just cloned!!
 * <a href="https://github.com/adiwajshing/Baileys"><img alt="GitHub" src="https://img.shields.io/badge/adiwajshing/Baileys%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 
 ## Group
-* <a href="https://chat.whatsapp.com/KLfjq8AK4Jz62Pqfz5sv0v"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+* <a href="https://chat.whatsapp.com/DpuTI6AFUaTJT5BfmVcNOw"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 ### Donate
 * <a href="https://saweria.co/donate/mhankbarbar"><img alt="Saweria" src="https://img.shields.io/badge/Saweria-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
